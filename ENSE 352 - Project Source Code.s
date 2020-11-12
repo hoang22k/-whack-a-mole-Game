@@ -2,7 +2,7 @@
 ;;
 ;; Name: Khoa Hoang
 ;; SID: 200 354 230 
-;; ENSE 350 Term Project  				
+;; ENSE 352 Term Project  				
 ;;______________________________________
 
 ;; GPIO Test program - Dave Duguid, 2011
